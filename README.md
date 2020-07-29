@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Pedro Nandi from Brazil (🇧🇷). I've been working as Software Developer since 2012 and currently I'm Back-end Engineer at [FESC Tecnologia](https://www.fescsaude.com.br/). I'm passionate about coding, so I've been always learning. Here, I share some projects that I've made.
+My name is Pedro Nandi from Brazil (🇧🇷). I've been working as Software Developer since 2012 and currently I'm Back-end Engineer at [FESC Tecnologia](https://www.fescsaude.com.br/). I'm passionate about coding, so I've been always learning. Here, I share some projects that I've built.
 
 Would you like to find me?
 
