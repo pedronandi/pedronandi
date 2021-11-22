@@ -6,3 +6,8 @@ Would you like to find me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedronandi)](https://twitter.com/pedronandi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedronandi)](https://www.linkedin.com/in/pedronandi)
+
+____
+
+
+[![Pedro Nandi's github stats](https://github-readme-stats.vercel.app/api?username=pedronandi&theme=dark&show_icons=true&count_private=true)](https://github.com/pedronandi)
