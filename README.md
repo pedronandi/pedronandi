@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Pedro and I'm from Brazil (🇧🇷). I've been working as Software Developer since 2012 (also have a past as Java learner) and currently I'm software engineer. I'm a programming enthusiast and one of my biggest hobbies is to learn and update myself about technologies and concepts around development and design, focusing on clean code and agile methods. Expect from me curiosity, fast learning skills and quality. Also, I like to share what I learn here on GitHub.
+My name is Pedro and I'm from Brazil (🇧🇷). I've been working as software developer since 2012 (also have a past as Java learner) and currently I'm software engineer. I'm a programming enthusiast and one of my biggest hobbies is to learn and update myself about technologies and concepts around development and design, focusing on clean code and agile methods. Expect from me curiosity, fast learning skills and quality. Also, I like to share what I learn here on GitHub.
 
 Would you like to find me?
 
